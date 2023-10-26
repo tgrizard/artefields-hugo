@@ -1,7 +1,7 @@
 ---
 title: "Les étranges gourmandises photographiques de Brooke DiDonato"
 date: 2023-10-23T22:03:27+02:00
-draft: true
+draft: false
 authors: ["Thierry Grizard"]
 tags: ["Surréalisme", "Corporéité"]
 categories: ["Photographie"]

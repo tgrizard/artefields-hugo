@@ -1,7 +1,7 @@
 ---
 title: "Le Greco au Grand Palais, transfigurations picturales !"
 date: 2023-10-23T22:03:27+02:00
-draft: true
+draft: false
 authors: ["Anna Migdal"]
 description: "Le Greco, la rétrospective au musée du Grand Palais fournit une occasion unique d'admirer les transfigurations de cet artiste peintre hors normes."
 tags: ["Peinture"]

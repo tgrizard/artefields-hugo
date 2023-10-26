@@ -1,7 +1,7 @@
 ---
 title: "Le nu et les corps photographiques"
 date: 2023-10-23T22:03:27+02:00
-draft: true
+draft: false
 authors: ["Thierry Grizard"]
 description: "La photographie de nu est aussi variée et hétérogène que la peinture de nu. Petit tour d'horizon en partant de quelques photographes emblématiques."
 tags: ["Iconographie", "Corporéité"]

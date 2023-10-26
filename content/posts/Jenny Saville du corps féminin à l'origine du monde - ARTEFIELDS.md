@@ -1,7 +1,7 @@
 ---
 title: "Jenny Saville, du corps féminin à l’origine du monde"
 date: 2023-10-23T22:03:27+02:00
-draft: true
+draft: false
 authors: ["Thierry Grizard"]
 description: "Jenny Saville une artiste peintre contemporaine qui questionne la représentation du corps féminin dans une manière monumentale proche de la sculpture."
 tags: ["Peinture", "Sensorialité", "Corporéité"]

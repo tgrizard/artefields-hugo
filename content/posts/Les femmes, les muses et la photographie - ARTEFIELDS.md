@@ -1,7 +1,7 @@
 ---
 title: "Les femmes, les muses et la photographie"
 date: 2023-10-23T22:03:27+02:00
-draft: true
+draft: false
 authors: ["Thierry Grizard"]
 description: "Les femmes sont omniprésentes dans l'art mais le plus souvent à titre de modèles ou de muses, la photographie a joué un rôle libérateur sur ce point. "
 tags: ["Iconographie"]

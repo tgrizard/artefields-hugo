@@ -1,7 +1,7 @@
 ---
 title: "Le Bauhaus – de quoi s’agit-il, au juste ?"
 date: 2023-10-23T22:03:27+02:00
-draft: true
+draft: false
 authors: ["Anna Migdal"]
 description: "Cent ans après l’ouverture du Bauhaus cette école d'art reste toujours bien présente dans le monde entier notamment dans le design et l'architecture. "
 tags: ["Iconographie", "Histoire de l'art"]

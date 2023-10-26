@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 authors: ["Thierry Grizard"]
 description: "Sara Punt est une jeune photographe néerlandaise qui appréhende la photographie comme une chorégraphie qui sculpte et stylise les corps. "
 featured_image: "/posts/images/sara-punt.jpg"
-draft: true
+draft: false
 tags: ["Formalisme", "Corporéité"]
 categories: ["Photographie"]
 ---

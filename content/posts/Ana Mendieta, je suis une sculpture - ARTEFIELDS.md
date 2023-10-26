@@ -1,7 +1,7 @@
 ---
 title: "Ana Mendieta, je suis une sculpture"
 date: 2023-10-23T22:03:27+02:00
-draft: true
+draft: false
 authors: ["Thierry Grizard"]
 description: "Ana Mendieta était une artiste de la performance et du body art il est pourtant impossible de la cantonner dans ces frontières bien trop étroites pour elle."
 tags: ["Body Art", "Performance", "Sensorialité", "Corporéité"]
