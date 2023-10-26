@@ -28,10 +28,7 @@ enableRobotsTXT = false
     name = 'Thèmes'
     pageRef = '/categories/themes'
     weight = 40
-[[menu.main]]
-    name = 'Contact'
-    url = 'https://www.artefields.net/contact/'
-    weight = 50
+
 
 [taxonomies]
     author = "authors"
