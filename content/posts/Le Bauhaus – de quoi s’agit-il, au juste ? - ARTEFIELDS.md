@@ -6,7 +6,7 @@ authors: ["Anna Migdal"]
 description: "Cent ans après l’ouverture du Bauhaus cette école d'art reste toujours bien présente dans le monde entier notamment dans le design et l'architecture. "
 tags: ["Iconographie", "Histoire de l'art"]
 categories: ["Themes"]
-featured_image: "/posts/images/banner/bauhaus.jpg"
+featured_image: "https://afhugo2.pages.dev/posts/images/banner/bauhaus.jpg"
 ---
 ## Le Bahaus en lui même
 
